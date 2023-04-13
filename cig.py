@@ -1,2 +1,4 @@
-list=[4,5,6]
-print(list)
+n=10
+n1=20
+s=n+n1
+print(s)
